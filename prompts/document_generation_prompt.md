@@ -54,7 +54,15 @@ RÈGLES STRICTES DE FORMATAGE :
     "A_PROPOS": "<Accroche percutante de 3 lignes maximum résumant le profil hybride, la valeur ajoutée pour l'entreprise, la stack technique adaptée à l'offre et l'atout bilingue/international>",
     "COMPETENCES_CLES": "<Liste de 4 puces détaillant l'adéquation technique et métier. Utilise la structure : Nom compétence : illustration concrète selon l'offre (exemple : Data Science/ML (ou SQL/BI selon l'offre), IA & Automatisation, Restitution & Outils IT, Métier)>",
     "SOPRA_STERIA_TITRE": "<Titre du poste adapté à l'offre (ex: Data Scientist / Analyst & IA ou Data Analyst & BI)>",
-    "SOPRA_STERIA_DESC": "<3 à 4 puces réécrites pour cibler les enjeux de l'offre. Intègre les outils clés et les résultats chiffrés : automatisation de 60% des reportings, pipelines multi-sources, PoC NLP/LLM ou modèles prédictifs>"
+    "SOPRA_STERIA_DESC": "<3 à 4 puces réécrites pour cibler les enjeux de l'offre. Intègre les outils clés et les résultats chiffrés : automatisation de 60% des reportings, pipelines multi-sources, PoC NLP/LLM ou modèles prédictifs>",
+    "RONA_TITRE": "<Titre adapté (ex: Co-Gérante de Magasin & Pilotage de la Performance)>",
+    "RONA_DESC": "<2 puces orientées pilotage de centre de profit, gestion sous contrainte de 144k références et management d'équipe bilingue>",
+    "IMMOVITAL_TITRE": "<Titre adapté ex: Gestionnaire d'Actifs & Structuration de Données>",
+    "IMMOVITAL_DESC": "<1 à 2 puces sur la fiabilisation de bases de données, suivi de rentabilité locative et tableaux de bord>",
+    "ADIPSYS_TITRE": "<Titre adapté ex: Chef de Projet Performance B2B & Data Marketing>",
+    "ADIPSYS_DESC": "<2 puces sur le suivi du churn, l'automatisation de reportings et l'analyse ROI d'offres SaaS B2B>",
+    "EDF_TITRE": "<Titre adapté ex: Business Analyste Performance & Offres Commerciales>",
+    "EDF_DESC": "<2 puces valorisant l'analyse financière/ROI de 89 offres B2B et la restitution décisionnelle aux comités de direction>"
   },
   "lettre": {
     "NOM_ENTREPRISE": "<Nom de l'entreprise cible>",
